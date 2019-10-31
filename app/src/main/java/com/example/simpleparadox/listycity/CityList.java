@@ -77,4 +77,7 @@ public class CityList {
     public int countCities() {
         return cities.size();
     }
+    public int countProvinces(){
+        return 0;
+    }
 }
